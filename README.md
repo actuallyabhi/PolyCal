@@ -1,5 +1,7 @@
 This is a colorful, text-based calendar widget for Android.
 
+<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" alt="PolyCal widget showing color-coded events from several calendars" width="480">
+
 The color coding is intended to be especially useful for people who must
 coordinate multiple calendars.
 
